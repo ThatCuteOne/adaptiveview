@@ -1,4 +1,13 @@
 {
   "format": 1,
-  "versions": []
+  "versions": [
+    {
+      "timestap": "2026-08-24T12:27:15.872891576Z",
+      "game_version": "26.2",
+      "version_name": "v2.4.5-beta1",
+      "depends_on": [
+        "P7dR8mSH"
+      ]
+    }
+  ]
 }
